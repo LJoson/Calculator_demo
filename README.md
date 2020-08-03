@@ -1,1 +1,2 @@
 # QT_calculator
+这是一个QT的calculator的demo
