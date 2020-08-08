@@ -1,2 +1,2 @@
-# QT_calculator
-这是一个QT的calculator的demo
+# Make a calculator
+这是一个QT and vs 的calculator的demo
